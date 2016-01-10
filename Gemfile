@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rspec', '
+gem 'rspec'
 gem 'rake'
 gem 'helloworld'
 gem 'sinatra'
